@@ -84,3 +84,7 @@ D:\Documents\FP España\CES Vega Media (Alguazas)\Desarrollo de Aplicaiones Web\
 D:\Documents\FP España\CES Vega Media (Alguazas)\Desarrollo de Aplicaiones Web\2-FCT\Everis\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.csproj.CopyComplete
 D:\Documents\FP España\CES Vega Media (Alguazas)\Desarrollo de Aplicaiones Web\2-FCT\Everis\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.dll
 D:\Documents\FP España\CES Vega Media (Alguazas)\Desarrollo de Aplicaiones Web\2-FCT\Everis\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.pdb
+D:\Documents\FP España\CES Vega Media (Alguazas)\Desarrollo de Aplicaiones Web\2-FCT\Everis\ContosoUniversity\ContosoUniversity\bin\EntityFramework.dll
+D:\Documents\FP España\CES Vega Media (Alguazas)\Desarrollo de Aplicaiones Web\2-FCT\Everis\ContosoUniversity\ContosoUniversity\bin\EntityFramework.SqlServer.dll
+D:\Documents\FP España\CES Vega Media (Alguazas)\Desarrollo de Aplicaiones Web\2-FCT\Everis\ContosoUniversity\ContosoUniversity\bin\EntityFramework.xml
+D:\Documents\FP España\CES Vega Media (Alguazas)\Desarrollo de Aplicaiones Web\2-FCT\Everis\ContosoUniversity\ContosoUniversity\bin\EntityFramework.SqlServer.xml
